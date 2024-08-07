@@ -1,0 +1,18 @@
+{
+    "name": "interaxion/interaxion",
+    "description": "Librería con módulos para permitir las interacciones entre usuarios, como autenticación, comentarios, encuestas, contactos, notificaciones, y más.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AndyDevX",
+            "email": "andresag253@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "interaxion\\modules\\": "src/"
+        }
+    },
+    "require": {}
+}
