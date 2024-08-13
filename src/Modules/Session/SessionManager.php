@@ -1,5 +1,5 @@
 <?php
-namespace interaxion\modules;
+namespace interaxion\Modules\Session;
 
 class SessionManager {
 

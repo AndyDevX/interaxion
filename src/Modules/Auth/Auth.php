@@ -6,10 +6,10 @@
  * @copyright 2024 Andrés Ayuso (AndyDevX)
  * @license MIT
  */
-namespace interaxion\modules;
+namespace interaxion\modules\Auth;
 
 use Dotenv\Dotenv;
-use interaxion\modules\SessionManager;
+use interaxion\Modules\Session\SessionManager;
 use mysqli;
 use PHPMailer\PHPMailer\Exception;
 use PHPMailer\PHPMailer\PHPMailer;

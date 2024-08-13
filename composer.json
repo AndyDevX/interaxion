@@ -11,7 +11,8 @@
     ],
     "autoload": {
         "psr-4": {
-            "interaxion\\modules\\": "src/"
+            "interaxion\\Modules\\Auth\\": "src/Modules/Auth/",
+            "interaxion\\Modules\\Session\\": "src/Modules/Session/"
         }
     },
     "require": {
